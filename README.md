@@ -35,23 +35,6 @@
 
 <br>
 
-<p align="center"><img 
-    src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/3241790"
-    alt="zaher88abd" 
-    bg_color=#808080/></p>
-
-<p align="center"><img 
-    src="https://github-readme-stats.vercel.app/api?username=zaher88abd&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"
-    alt="zaher88abd" 
-    bg_color=#808080/></p>
-
-<p align="center"><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zaher88abd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="zaher88abd" 
-    bg_color=#808080/></p>
-
-<br>
-
 ## Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
